@@ -17,3 +17,11 @@ pojo：实体类
 schedule：规划层
 
 UI：获取种子
+
+## 主要技术：
+
+### selenium：模拟浏览器操作
+
+### tess4j: ORC文字识别
+
+### jsoup：文件分析工具
